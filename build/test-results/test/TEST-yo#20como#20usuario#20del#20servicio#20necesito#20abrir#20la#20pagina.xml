@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="yo como usuario del servicio necesito abrir la pagina" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-01T01:58:56" hostname="DESKTOP-C3COLKM" time="108.335">
+  <properties/>
+  <testcase name="abrir pagina en espaniol - Actividad - travelocity - con SerintyBDD" classname="yo como usuario del servicio necesito abrir la pagina" time="108.335"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/SQA/IdeaProjects/travelocity/src/test/resources/features/reservar_actividad_de_viaje.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 26547
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar. 31, 2021 8:59:03 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
